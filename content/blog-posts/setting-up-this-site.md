@@ -6,3 +6,4 @@ title = "Setting Up This Site"
 type = "blog"
 
 +++
+This is the start of how I was able to create my own site with Hugo , Forestry, Git, and AWS
