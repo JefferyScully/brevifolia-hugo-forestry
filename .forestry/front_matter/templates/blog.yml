@@ -32,3 +32,4 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/setting-up-emacs-python-enviroment.md
+- content/blog-posts/setting-up-this-site.md
