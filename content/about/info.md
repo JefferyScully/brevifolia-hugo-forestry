@@ -8,6 +8,7 @@ contact_info:
   email: info@forestry.io
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
+  linkedin: jscully86@gmail.com
 type: ''
 
 ---
