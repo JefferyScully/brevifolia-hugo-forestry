@@ -38,8 +38,9 @@ fields:
   - name: linkedin
     type: text
     config:
-      required: false
+      required: true
     label: LinkedIn
+    description: Enter LinkedIn contact
   label: contact info
   description: Enter contact info here
 pages:
