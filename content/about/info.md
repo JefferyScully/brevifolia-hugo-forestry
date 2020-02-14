@@ -10,7 +10,6 @@ contact_info:
   github_url: https://github.com/forestryio
   linkedin: jscully86@gmail.com
 type: ''
-draft: true
 
 ---
 ## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
