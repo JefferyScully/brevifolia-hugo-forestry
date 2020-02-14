@@ -35,11 +35,11 @@ fields:
       required: false
     label: Email
     description: Enter contact email here
-  - name: linkedin
+  - name: linkedin_handle
     type: text
     config:
       required: true
-    label: LinkedIn
+    label: LinkedIn Handle
     description: Enter LinkedIn contact
   label: contact info
   description: Enter contact info here
