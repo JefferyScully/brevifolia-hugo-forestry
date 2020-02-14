@@ -9,6 +9,7 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
   linkedin: jscully86@gmail.com
+  linkedin_handle: https://www.linkedin.com/in/jeffery-scully-294463164/
 type: ''
 
 ---
