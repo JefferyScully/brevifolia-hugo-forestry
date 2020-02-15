@@ -2,7 +2,7 @@
 author = "Jeffery Scully"
 date = 2020-02-15T06:00:00Z
 draft = true
-hero = "/images/emacs_logo.png"
+hero = "/images/emacs_small.png"
 title = "Checking image sizing"
 type = "blog"
 
