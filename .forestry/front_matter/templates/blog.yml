@@ -31,6 +31,7 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/checking-image-sizing.md
 - content/blog-posts/moodle.md
 - content/blog-posts/personal-vpn-pritunl.md
 - content/blog-posts/setting-up-emacs-python-enviroment.md
